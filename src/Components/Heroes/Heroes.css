@@ -1,0 +1,11 @@
+.card-div{
+    text-align: center;
+    border: none;
+    text-decoration: none;
+   
+    
+}
+.card-div button{
+    background-color: #6047ec;
+    color: white;
+}

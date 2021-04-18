@@ -1,0 +1,14 @@
+.header{
+    background-color: #6047ec;
+   text-align: center;
+   padding: 48px;
+   
+}
+.header h2{
+    font-weight: 700;
+    font-size: 34px;
+}
+.header p{
+    font-size: 14px;
+}
+
